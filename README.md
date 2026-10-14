@@ -1,4 +1,4 @@
-# My Git Assignment
+# My GitHub Portfolio Assignment
 
 This project is a simple personal portfolio website.
 
