@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # My Personal Portfolio Project
 # My GitHub Portfolio Assignment
->>>>>>> feature/navbar
 
 This project is a simple personal portfolio website.
 
