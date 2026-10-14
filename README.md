@@ -25,3 +25,4 @@ The website contains:
 ## Author
 
 Sufiya Sultana
+This project demonstrates Git branching and merging.
